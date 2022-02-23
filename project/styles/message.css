@@ -1,0 +1,27 @@
+#message {
+	padding-top: 12rem;
+	padding-bottom: 25rem;
+}
+
+.row {
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+	padding-top: 0.5rem;
+}
+
+.btn{
+	background-color: #FFA500! important;
+	border-color: #FFA500! important;
+	margin-top: 1.5rem;
+}
+
+.btn:hover{
+	background-color: #ff8c00!important;
+}

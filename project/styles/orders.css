@@ -1,0 +1,58 @@
+
+#body{
+	padding-top:5rem;
+	padding-bottom:3rem;
+	min-height: 60vh;
+}
+
+.card-title{
+	padding-left:1.5rem;
+	color:#ff8c00 !important;
+}
+
+b {
+	padding-left:1.5rem;	
+	
+}
+
+p {
+	padding-top:0.3rem;
+
+}
+
+.col-auto img{
+	padding-top:1.1rem;
+}
+
+.btn {
+	background-color: #555555 !important;
+	border-color: #555555 !important;
+	margin-left:1.5rem;
+}
+
+.btn:hover {
+	background-color: #FFA500 !important;
+	border-color: #FFA500 !important;
+}
+
+
+.page.btn{
+	background-color: #555555 !important;
+	border-color: #555555 !important;
+	margin:0.4rem;
+	font-size: 19px;
+}
+
+
+
+.page.btn:hover {
+	background-color: #FFA500 !important;
+	border-color: #FFA500 !important;
+}
+
+.page-active.btn  {
+	background-color: #ff8c00 !important;
+	border-color: #ff8c00 !important;
+	margin:0.4rem;
+	font-size: 19px;
+}

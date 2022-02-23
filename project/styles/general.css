@@ -1,0 +1,34 @@
+body {
+	background-color: WhiteSmoke;
+}
+
+/* Header */
+#logo { 
+	margin-left:0.5rem; 
+	margin-right:0.5rem;
+}
+
+#headerRight { 
+	margin-right:0.5rem; 
+}
+
+.nav-link.active {
+  color: #ff8c00 !important;
+}
+
+.nav-link:hover{
+	color: #FFA500 !important;
+}
+
+
+/* Footer */
+.page-footer {
+	background-color: #222;
+	color: #ccc;
+	padding-top: 3rem;
+	margin-top: 4rem;
+}
+.footer-copyright {
+	color: #FFA500 !important;
+	padding: 40px 0;
+}

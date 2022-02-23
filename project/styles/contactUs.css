@@ -1,0 +1,67 @@
+#bodyRow {
+	padding-top: 6rem;
+}
+
+#message {
+	height: 200px;
+}
+
+#message:focus {
+	background-color: #ddd;
+	outline: none;
+}
+
+h2 {
+	font-size: 40px;
+	padding-bottom: 1rem;
+	padding-top: 3rem;
+}
+
+
+
+input[type=text], select, textarea {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+}
+
+input[type=submit] {
+	background-color: #555555;
+	border-radius: 6px;
+	color: white;
+	padding: 14px 20px;
+	margin-top: 2rem;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	opacity: 0.9;
+	font-size: 24px;
+}
+
+input[type=text]:focus {
+	background-color: #ddd;
+	outline: none;
+}
+
+input[type=submit]:hover {
+	background-color: #FFA500;
+}
+
+#error{
+	color:red;  
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 22px;
+}
+
+#success{
+	color:green;  
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 22px;
+}

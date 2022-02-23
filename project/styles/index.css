@@ -1,0 +1,46 @@
+.header {
+	background-image: url('../images/hero.jpg');
+	background-size: cover;
+	background-position: center;
+	position: relative;	
+	
+}
+
+.overlay {
+	position: absolute;
+	min-height: 100%;
+	min-width: 100%;
+	left: 0;
+	top: 0;
+	background: rgba(0, 0, 0, 0.6);
+}
+		
+.description {
+	left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.description h1 {
+	color: #ff8c00;
+}
+.description p {
+	color: #ffffff;
+	font-size: 1.3rem;
+	line-height: 1.5;
+	margin-bottom: 2.5rem;
+}
+
+.btn{
+	background-color: #FFA500! important;
+	border-color: #FFA500! important;
+}
+
+.btn:hover{
+	background-color: #ff8c00!important;
+}
+
+.page-footer {
+	margin-top: 0rem;
+}
